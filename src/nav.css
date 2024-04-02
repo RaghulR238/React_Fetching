@@ -1,0 +1,10 @@
+.nav
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    position: sticky;
+    justify-content: space-evenly;
+    cursor: pointer;
+    /* font-size: 30px; */
+}
